@@ -52,3 +52,15 @@ The project focuses only on midfielders and forwards, and defenders. Goalkeepers
 Predictions are relatively short-term and don't focus on a player's entire future career.
 Younger players are assumed to generally improve with age, hence the use of an age-based performance multiplier.
 The system assumes that users will query by player name to generate reports.
+
+
+https://github.com/Lucas-Coding/FootballML/blob/main/Harry%20Kane.png?raw=true
+
+
+
+
+
+
+
+
+
