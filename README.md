@@ -39,6 +39,10 @@ Reports were generated per player, forcing the queried player into the test set 
 Each report includes predicted position suitability, adjusted performance score, and comparative visualizations against peers by league, position, or age group.
 For example, Erling Haaland’s score was initially undervalued due to passing bias, which was resolved by rebalancing weights to give scoring more emphasis. Different positions have different efficiencies valued more highly.
 
+![image alt](https://github.com/Lucas-Coding/FootballML/blob/4c1b0e361bb5c4eb7627bcbba1400754ecf0c75c/Player%20Report.png)
+
+![image alt](https://github.com/Lucas-Coding/FootballML/blob/581454413d8cf46250432059e3fe3e6e0efb1335/Harry%20Kane.png)
+
 Recommendations
 Use a more consistent dataset to avoid anomalies such as per-90 vs. total values.
 Validate whether custom-designed efficiency metrics truly outperform raw attributes or add unnecessary complexity.
