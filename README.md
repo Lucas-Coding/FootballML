@@ -57,7 +57,6 @@ Predictions are relatively short-term and don't focus on a player's entire futur
 Younger players are assumed to generally improve with age, hence the use of an age-based performance multiplier.
 The system assumes that users will query by player name to generate reports.
 
-![image alt](https://github.com/Lucas-Coding/FootballML/blob/581454413d8cf46250432059e3fe3e6e0efb1335/Harry%20Kane.png)
 
 
 
